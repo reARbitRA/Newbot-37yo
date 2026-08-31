@@ -1,0 +1,5 @@
+{"provider": "groq", "model": "llama-3.1-8b-instant", "strategy": "call", "tokens_in": 5, "tokens_out": 5, "cost": 1e-06, "ms": 100, "ts": 1788107056.6683652}
+{"provider": "groq", "model": "llama-3.1-8b-instant", "strategy": "call", "tokens_in": 3, "tokens_out": 3, "cost": 0.0, "ms": 100, "ts": 1788107193.8048804}
+{"provider": "groq", "model": "llama-3.1-8b-instant", "strategy": "call", "tokens_in": 3, "tokens_out": 3, "cost": 0.0, "ms": 100, "ts": 1788110311.0107028}
+{"provider": "groq", "model": "llama-3.1-8b-instant", "strategy": "call", "tokens_in": 3, "tokens_out": 3, "cost": 0.0, "ms": 100, "ts": 1788110325.386138}
+{"provider": "groq", "model": "llama-3.1-8b-instant", "strategy": "call", "tokens_in": 3, "tokens_out": 3, "cost": 0.0, "ms": 100, "ts": 1788110345.5711534}
